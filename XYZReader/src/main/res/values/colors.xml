@@ -16,10 +16,17 @@
 -->
 
 <resources>
+
+    <!-- Theme -->
+    <color name="amber_700">#F57C00</color>
+    <color name="amber_800">#EF6C00</color>
+    <color name="amber_900">#E65100</color>
+    <color name="indigo_500">#3F51B5</color>
+
+    <!-- Text -->
+    <color name="primary_text_color">#DE000000</color>
+    <color name="secondary_text_color">#8A000000</color>
+
     <color name="photo_placeholder">#ccc</color>
 
-    <color name="theme_primary">#04561A</color>
-    <color name="theme_primary_dark">#04561A</color>
-    <color name="theme_accent">#04561A</color>
-    <color name="ltgray">#ffe0e0e0</color>
 </resources>

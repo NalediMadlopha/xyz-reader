@@ -9,4 +9,7 @@
 
     <string name="up">Up</string>
 
+    <!-- Card View -->
+    <string name="card_view_thumbnail">Card View Thumbnail</string>
+
 </resources>

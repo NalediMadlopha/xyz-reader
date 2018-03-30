@@ -3,17 +3,20 @@
     <!-- Defaults -->
     <dimen name="default_16dp">16dp</dimen>
 
-    <!-- Card View -->
-    <dimen name="card_view_margin">4dp</dimen>
-    <dimen name="card_view_subtitle_text_size">12sp</dimen>
+    <!-- List -->
+    <dimen name="article_list_recycler_view_padding">12dp</dimen>
 
-    <!-- detail -->
+    <!-- Detail -->
     <dimen name="detail_title_text_size">32sp</dimen>
     <dimen name="detail_body_text_size">22sp</dimen>
     <item name="detail_body_line_spacing_multiplier" format="float" type="fraction">1.25</item>
 
+    <!-- Widgets -->
     <dimen name="fab_elevation">2dp</dimen>
     <dimen name="fab_press_translation_z">6dp</dimen>
     <dimen name="fab_margin">24dp</dimen>
+
+    <dimen name="card_view_margin">4dp</dimen>
+    <dimen name="card_view_subtitle_text_size">12sp</dimen>
 
 </resources>

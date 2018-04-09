@@ -12,4 +12,7 @@
     <!-- Card View -->
     <string name="card_view_thumbnail">Card View Thumbnail</string>
 
+    <!-- Detail -->
+    <string name="detail_article_image">Article Image</string>
+
 </resources>

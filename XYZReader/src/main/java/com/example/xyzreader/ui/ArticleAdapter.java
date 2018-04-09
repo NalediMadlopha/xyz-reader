@@ -109,7 +109,7 @@ public class ArticleAdapter extends RecyclerView.Adapter<ArticleAdapter.ArticleV
             super(itemView);
 
             imageView = itemView.findViewById(R.id.card_thumbnail);
-            titleTextView = itemView.findViewById(R.id.card_view_title);
+            titleTextView = itemView.findViewById(R.id.card_article_title);
             subtitleTextView = itemView.findViewById(R.id.card_view_subtitle);
             authorTextView = itemView.findViewById(R.id.card_view_author);
 

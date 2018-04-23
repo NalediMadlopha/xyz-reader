@@ -14,5 +14,6 @@
 
     <!-- Detail -->
     <string name="detail_article_image">Article Image</string>
+    <string name="detail_article_subtitle">%1$s by %2$s</string>
 
 </resources>

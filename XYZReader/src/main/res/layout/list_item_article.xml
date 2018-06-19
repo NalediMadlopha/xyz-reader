@@ -15,10 +15,10 @@
         android:layout_height="wrap_content"
         android:orientation="vertical">
 
-        <com.example.xyzreader.ui.DynamicHeightNetworkImageView
+        <ImageView
             android:id="@+id/card_thumbnail"
             android:layout_width="match_parent"
-            android:layout_height="wrap_content"
+            android:layout_height="@dimen/article_list_card_image_height_size"
             android:scaleType="centerCrop"
             android:contentDescription="@string/card_view_thumbnail"
             tools:background="@color/photo_placeholder" />

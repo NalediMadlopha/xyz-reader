@@ -12,6 +12,10 @@
     <!-- Card View -->
     <string name="card_view_thumbnail">Card View Thumbnail</string>
 
+    <!-- List -->
+    <string name="no_articles_found">No articles found</string>
+    <string name="no_articles_found_snack_bar_text">No articles found</string>
+
     <!-- Detail -->
     <string name="detail_article_image">Article Image</string>
     <string name="detail_article_subtitle">%1$s by %2$s</string>

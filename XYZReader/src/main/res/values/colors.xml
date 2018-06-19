@@ -26,7 +26,9 @@
     <!-- Text -->
     <color name="primary_text_color">#DE000000</color>
     <color name="secondary_text_color">#8A000000</color>
+    <color name="detail_subtitle_text_color">#8fff</color>
 
     <color name="photo_placeholder">#ccc</color>
+    <color name="white_color">#ffffff</color>
 
 </resources>
